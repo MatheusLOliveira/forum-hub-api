@@ -1,0 +1,2 @@
+ALTER TABLE answer
+    MODIFY COLUMN solution BOOLEAN NOT NULL;
