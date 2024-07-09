@@ -1,0 +1,1 @@
+ALTER TABLE topic MODIFY course_id BIGINT NULL;
